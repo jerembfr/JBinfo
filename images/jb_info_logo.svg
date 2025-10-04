@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b2027;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 300px;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-5 {
+        font-size: 387.5px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #009fe3;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        font-family: Arial-ItalicMT, Arial;
+        font-size: 60px;
+        font-style: italic;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Laag_2" data-name="Laag 2">
+    <rect class="cls-1" width="1024" height="1024"/>
+  </g>
+  <g id="Laag_1" data-name="Laag 1">
+    <text class="cls-3" transform="translate(334.22 612.76) rotate(-90.15)"><tspan x="0" y="0">JB</tspan></text>
+    <text class="cls-5" transform="translate(334.22 612.76)"><tspan class="cls-9" x="0" y="0">I</tspan><tspan x="96.48" y="0">n</tspan><tspan class="cls-7" x="311.54" y="0">f</tspan><tspan x="419.66" y="0">o</tspan></text>
+    <text class="cls-8" transform="translate(77.88 664.23)"><tspan class="cls-2" x="0" y="0">V</tspan><tspan class="cls-4" x="37.79" y="0">otre spécialiste </tspan><tspan class="cls-6" x="454.66" y="0">en informatique</tspan></text>
+  </g>
+</svg>
